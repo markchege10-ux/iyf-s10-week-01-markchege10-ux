@@ -7,7 +7,8 @@
 
 
 ## Project Description
-Brief description of what you built and why.
+This project is about how vs code can be used with extension
+It is for education purpose
 
 ## Technologies Used
 - HTML5
