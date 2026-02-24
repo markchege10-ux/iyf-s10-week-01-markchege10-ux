@@ -35,6 +35,8 @@ I encountered challenges like insallation if the wrong live server
 but a friend showed me how you can install them
 
 ## Screenshots (optional)
+Screenshot of vs code with all extension installed <img width="1280" height="800" alt="Screenshot 2026-02-24 155243" src="https://github.com/user-attachments/assets/e84b2e8c-34ac-4876-9dcc-ee3336943c61"/>)
+
 
 
 ## Live Demo (if deployed)
