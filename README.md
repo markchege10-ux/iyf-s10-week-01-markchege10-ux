@@ -33,7 +33,7 @@ I learned how to open and navigate vs code
 i encountered challenges like insallation if the wrong live server
 
 ## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
+![Screenshot of the vs code with all extensions installed] (<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/ad3534bc-8bef-43cf-a0cb-9cc87271aad9" />)
 
 ## Live Demo (if deployed)
 [View Live Demo](https://your-deployed-url.com)
